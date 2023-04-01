@@ -16,6 +16,7 @@ body {
     font-family: jellee;
     text-shadow: 0 4px 8px rgba(0,0,0,.2);
     font-size: 15px;
+    text-align: center;
 }
 
 .container {
